@@ -1,3 +1,0 @@
-verilog xil_defaultlib  "C:/Users/FranticUser/Vivado Projects/4 Bit Counter/4 Bit Counter.srcs/sources_1/new/FourBC.v"
-verilog xil_defaultlib  "C:/Users/FranticUser/Vivado Projects/4 Bit Counter/4 Bit Counter.srcs/sim_1/new/tb.v"
-verilog xil_defaultlib "C:/Xilinx/Vivado/2014.2/data/verilog/src/glbl.v"
