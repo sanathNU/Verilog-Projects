@@ -15,3 +15,6 @@ The logic of ALU is controlled by 3-Bit Select lines called Sel. There are 2 4-b
 |  111         | A >B      |
 
 Also contains a XDC file for Basys 3 FPGA board
+
+
+![ schematic](https://github.com/sanathNU/Verilog-Projects/blob/528e074816381da27b3dfaac603f4e3cc41b949b/4%20Bit%20Arithmetic%20Logic%20Unit/image.png)
